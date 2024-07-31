@@ -1,1 +1,2 @@
 # SENTIMENT-ANALYSIS-OF-RESTAURANT-REVIEW
+Sentiment Analysis of Restaurant Reviews uses Natural Language Processing (NLP) and Machine Learning techniques to classify online reviews as Positive, Negative, or Neutral, providing insights into customer opinions and experiences. By analyzing text data from reviews, businesses can identify areas for improvement, track brand reputation, and make data-driven decisions to enhance customer satisfaction.
